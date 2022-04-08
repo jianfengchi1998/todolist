@@ -1,0 +1,16 @@
+
+.todolist_item{
+    width: 100%;
+    display: flex;
+    font-size: 1rem;
+}
+
+.todolist_item-text{
+    flex: 1;
+    margin-left: 1rem;
+    font-weight: 600;
+}
+
+.todolist_item-delete{
+    margin-right: 1rem;
+}
